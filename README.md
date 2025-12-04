@@ -1,1 +1,1 @@
-This is model repo for training course
+This is model repo for a training course
